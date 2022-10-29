@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include<string.h>
 int main()
 {
    printf("Hello, World!");
    printf("THIS IS NITIN GUPTA HERE !!");
    printf("THIS IS RAJAN SINGH HERE !!");
+   printf("Hello it's me");
    return 0;
 }
